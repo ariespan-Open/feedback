@@ -1,0 +1,8 @@
+name: 主站问题反馈
+description: 此板块用于接收主站相关问题反馈
+title: "[主站访问/下载问题反馈]: "
+labels: ["主站问题反馈"]
+assignees:
+  - Dedicatus5457
+body:
+  - type: markdown
