@@ -6,3 +6,5 @@ assignees:
   - Dedicatus5457
 body:
   - type: markdown
+attributes:
+    value: "This is working now!"
